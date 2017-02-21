@@ -10,7 +10,7 @@ namespace VisualStudioTips
     {
         public string UsefulMethod()
         {
-            return "somevalue";
+            return "some_changed_value";
         }
     }
 }
