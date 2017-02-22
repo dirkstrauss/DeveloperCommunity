@@ -1,6 +1,0 @@
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\bin\Debug\VisualStudioTips.exe.config
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\bin\Debug\VisualStudioTips.exe
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\bin\Debug\VisualStudioTips.pdb
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\obj\Debug\VisualStudioTips.csprojResolveAssemblyReference.cache
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\obj\Debug\VisualStudioTips.exe
-C:\Users\dirk\Source\Repos\DeveloperCommunity\VisualStudioTips\VisualStudioTips\obj\Debug\VisualStudioTips.pdb
